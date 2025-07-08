@@ -1,4 +1,21 @@
+/* src/App.css */
 .App {
+  max-width: 600px;
+  margin: 2rem auto;
+  font-family: Arial, sans-serif;
+}
+
+
+/*
+
+*/
+
+
+
+
+
+
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +53,4 @@
     transform: rotate(360deg);
   }
 }
+*/
